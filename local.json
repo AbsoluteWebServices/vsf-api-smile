@@ -1,0 +1,14 @@
+{
+  "extensions":{
+    "smile": {
+      "demo": true,
+      "api": {
+        "url": "https://api.smile.io",
+        "key": "__API_KEY__"
+      }
+    }
+  },
+  "registeredExtensions": [
+    "smile"
+  ]
+}
